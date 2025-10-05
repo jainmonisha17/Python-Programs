@@ -1,0 +1,3 @@
+print(not(5)) # False -> not of value -> not True is False
+print(not(((5 and (10 ** 2)) or (True and False or True))))  # False -> 5 is True and 10**2 is 100 is also True because they are all values or True and false is False or True is True -> True or True is True -> not of True is False
+print(not(True) and not(55)) # False -> not of True is False and not of 55 is also False because 55 is a value -> False and False is False 

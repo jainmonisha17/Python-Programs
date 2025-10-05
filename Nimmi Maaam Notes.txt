@@ -1,0 +1,28 @@
+Comparision Operation:
+
+ 	It helps to compare the given 2 values.
+ 	Input: Boolean condition
+ 	Output: Boolean value
+ 	>, <, ==, !=, >=, <=
+ 
+
+Note:
+Boolean Condition:
+ * Direct True or False
+ * Anything other than zero is True
+ * Zero -> False, 0 -> False
+ * Any num or value -> True
+ * Expression that returns a value or a variable that holds a value
+
+True, False, None: Special kind of keywords that internally holds value
+
+True -> 1
+False -> 0
+None -> Nothing
+
+Relational Operator: ==, !=
+Only equals equals and not equals to
+
+	
+
+
