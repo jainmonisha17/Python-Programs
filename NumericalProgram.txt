@@ -1,0 +1,4 @@
+Numerical Programs:
+
+1. Even or odd:
+a. Write a program to check whether the given number is even or odd
